@@ -1,7 +1,8 @@
 # Penjelasan SS
 
-## SS 1
+## SS 1 dan 1_1
 ss pertama berisi : ss untuk soal prioritas nomor 1, dimana membuat folder sampai soal rest API.
+Ss 1_1 adalah ss untuk subfolder yang berisi folder praktikum, screenshot, dan readme.md
 
 ## SS 2, 3, dan 4
 ss kedua berisi branch baru yang telah dibuat, ss ketiga berisi bukti pull request atau merge yang sudah berhasil dari branch
