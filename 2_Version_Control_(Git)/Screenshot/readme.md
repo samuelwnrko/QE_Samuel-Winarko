@@ -11,6 +11,6 @@ Perubahannya terdapat pada ss keempat.
 ## SS 5
 ss kelima merupakan screenshot atau gambar dari workflow trunkbase.
 
-# SS 6, 7 dan 8
+## SS 6, 7 dan 8
 SS keenam dan ketujuh merupakan screenshot yang berisikan konflik pada branch. ss kedelapan merupakan
 manajemen dari konflik tersebut dimana konflik tersebut berhasil di solve serta code review nya.
