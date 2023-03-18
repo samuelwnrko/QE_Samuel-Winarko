@@ -10,5 +10,4 @@ public class Main {
         System.out.println(encrypt("GOLANG")); // QYVKXQ
         System.out.println(encrypt("PROGRAMMER")); // ZBYQBKWWOB
     }
-
 }
