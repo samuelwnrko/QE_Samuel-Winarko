@@ -8,7 +8,7 @@ Sedangkan map data structure merupakan sebuah interface dalam bahasa pemrograman
 Java yang menyediakan struktur data agar dapat menyimpan pasangan key-value.
 
 ## Metode Masing-Masing
-pada iterable, metode yang digunakan pada sebuah objek adalah metode iterator().
+Pada iterable, metode yang digunakan pada sebuah objek adalah metode iterator().
 Metode ini dapat digunakan untuk mengakses setiap elemen dalam objek tersebut.
 
 Sedangkan pada map data structure, metode yang digunakan adalah metode put() untuk menambahkan pasangan 
