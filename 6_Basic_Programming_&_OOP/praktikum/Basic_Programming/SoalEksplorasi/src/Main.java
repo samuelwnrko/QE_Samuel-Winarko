@@ -1,4 +1,4 @@
-package org.example;
+package org.example.data;
 
 import static org.example.data.Encrypt.encrypt;
 public class Main {
