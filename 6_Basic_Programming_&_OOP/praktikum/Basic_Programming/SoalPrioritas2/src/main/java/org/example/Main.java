@@ -1,3 +1,4 @@
+package org.example;
 public class Main {
     public static void main(String[] args) {
         drawXYZ(5); //untuk input height awal pada nomor 1
