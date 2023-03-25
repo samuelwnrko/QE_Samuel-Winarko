@@ -22,12 +22,12 @@ Terdapat 4 metode dari HTTP Method, yaitu :
 ### JSON
 JSON merupakan Java Script Object Notation yang merupakan format ringkas dari pertukaran data pada komputer.
 Basis JSON sendiri adalah text dan biasanya terdiri dari key serta value, contoh :
-
+first name dan followers menjadi key dan "Samuel" serta angka 567 menjadi valuenya.
 `{
 "first name": "Samuel",
 "followers": 567
 };`
-first name dan followers menjadi key dan "Samuel" serta angka 567 menjadi valuenya.
+
 ---------
 ## REST API TESTING
 ### Testing API
